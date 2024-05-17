@@ -17,7 +17,7 @@ header {
   background-color: #333;
   color: white;
   padding: 0px;
-  border: 0px;
+  border: 10px;
 }
 
 .header-top {
@@ -49,8 +49,6 @@ header {
   max-width: 800px;
   text-align: center;
   margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 .banner h1 {
   font-size: 50px;
