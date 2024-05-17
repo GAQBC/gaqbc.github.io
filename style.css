@@ -14,46 +14,41 @@ body {
 
 header {
   margin: 0;
-  background-color: #333;
-  color: white;
+  background-color: #EEE;
+  color: black;
   padding-bottom: 10px;
 }
 
 .header-top {
   overflow: hidden;
-  background-color: #EEEEEE;
+  background-color: #000;
   padding: 10px 20px;
+  display: flex;
+  align-items: center;
 }
-
 .header-top a {
   float: left;
   text-align: center;
   text-decoration: none;
   padding: 12px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 25px;
   border-radius: 4px;
-  color: black;
+  color: white;
 }
 .header-top a:hover {
   text-decoration: underline
 }
-.header-right {
-  float: right;
-  display: flex;
-  align-items: center;
-}
 
 .banner {
   max-width: 800px;
-  text-align: center;
-  margin: auto;
+  text-align: left;
+  margin: 30px;
 }
 .banner h1 {
-  font-size: 50px;
+  font-size: 40px;
 }
 .banner p {
-  font-size: 20px;
-  line-height: 25px;
+  font-size: 15px;
+  line-height: 15px;
 }
-
