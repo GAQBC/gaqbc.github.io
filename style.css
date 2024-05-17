@@ -8,6 +8,10 @@ body {
   margin: 0;
 }
 
+.content {
+    margin: 8px; 
+}
+
 header {
   margin: 0;
   background-color: #333;
